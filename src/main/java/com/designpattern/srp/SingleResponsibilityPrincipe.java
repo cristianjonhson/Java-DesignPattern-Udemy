@@ -1,4 +1,4 @@
-package com.designpattern.singleresponsibilityprinciple;
+package com.designpattern.srp;
 
 public class SingleResponsibilityPrincipe {
     public static void main(String[] args) {
